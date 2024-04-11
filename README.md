@@ -1,3 +1,4 @@
+*NOTE THAT IM NOT A FRONTEND EXPERT AND THIS PROJECT IS DEVELOPED TO PRESENT MY BACKEND PROJECT
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
