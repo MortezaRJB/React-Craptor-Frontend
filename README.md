@@ -23,8 +23,10 @@ export default {
     project: ['./tsconfig.json', './tsconfig.node.json'],
     tsconfigRootDir: __dirname,
   },
+
 }
 ```
+![1](https://github.com/MortezaRJB/React-Craptor-Frontend/assets/56717208/2c37a809-7da5-4117-bc0d-ea5a0347d022)
 
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
