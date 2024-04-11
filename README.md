@@ -1,6 +1,8 @@
 *NOTE THAT IM NOT A FRONTEND EXPERT AND THIS PROJECT IS DEVELOPED TO REPRESENT MY BACKEND PROJECT
 # React + TypeScript + Vite
 
+![1](https://github.com/MortezaRJB/React-Craptor-Frontend/assets/56717208/2c37a809-7da5-4117-bc0d-ea5a0347d022)
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
@@ -30,4 +32,4 @@ export default {
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
-![1](https://github.com/MortezaRJB/React-Craptor-Frontend/assets/56717208/2c37a809-7da5-4117-bc0d-ea5a0347d022)
+
